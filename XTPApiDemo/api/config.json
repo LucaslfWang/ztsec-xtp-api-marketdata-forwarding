@@ -27,10 +27,10 @@
     }
   ],
   "ping_pong_test": false,
-  "quote_ip": "119.3.103.38",
+  "quote_ip": "XXX.XXX.XXX.XXX",
   "quote_port": 6002,
-  "quote_user": "15015202",
-  "quote_password": "H2uw5SN9",
+  "quote_user": "XXXXXXXX",
+  "quote_password": "XXXXXXXX",
   "quote_ticker": {
     "instrument": [
       "000977",
